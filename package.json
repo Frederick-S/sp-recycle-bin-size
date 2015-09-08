@@ -1,6 +1,6 @@
 {
   "name": "sp-recycle-bin-size",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get recycle bin size in SharePoint.",
   "main": "index.js",
   "directories": {
