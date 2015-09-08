@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="88060a96-067d-41fe-ab03-92f366564f98" 
+        solutionId="88060a96-067d-41fe-ab03-92f366564f98" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPRecycleBinSize_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="c1f74668-3de0-4f28-b9fa-c0369b9b2b61" />
+  </features>
+</package>
