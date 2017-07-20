@@ -1,4 +1,6 @@
 # sp-recycle-bin-size
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-recycle-bin-size.svg)](https://greenkeeper.io/)
 Get recycle bin size in SharePoint.
 
 ## Installation
